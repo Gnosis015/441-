@@ -82,3 +82,8 @@ footer {
     }  
 }  
   
+.logo img {
+    width: 100px; /* 设置Logo图片的宽度 */
+    height: auto; /* 自动调整高度以保持比例 */
+    margin-right: 20px; /* 设置Logo图片与导航链接之间的间距 */
+}
